@@ -58,12 +58,13 @@ Estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipe_z17&show_icons=true&theme=youtube-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe_z17&layout=compact&theme=youtube-dark&hide_border=true&locale=es&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariasvalcarce&show_icons=true&theme=youtube-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariasvalcarce&layout=compact&theme=youtube-dark&hide_border=true&locale=es&langs_count=8"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pipe_z17&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jariasvalcarce&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak"/>
   </a>
 </div>
 
