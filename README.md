@@ -1,110 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Arias%20Valcarce&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20SENA%20Bogotá%20🇨🇴&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Felipe%20Arias%20Valcarce&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20SENA%20Bogotá%20Colombia&descAlignY=55&descSize=18"/>
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+## About me
 
-Soy estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con enfoque en desarrollo **backend**. Me apasiona construir APIs robustas, manejar bases de datos relacionales y desarrollar soluciones reales que resuelvan problemas concretos.
+Software Analysis and Development student at **SENA Bogotá**, focused on **backend engineering**. I build robust REST APIs, design relational databases, and develop end-to-end solutions for real-world problems. Currently seeking a **practicum placement or junior developer role**.
 
-- 🔭 Actualmente trabajando en un **Sistema de gestión para restaurante** (Django + MySQL)
-- 🌱 Aprendiendo más sobre **arquitectura de software** y **buenas prácticas REST**
-- 💼 En búsqueda activa de mi **práctica profesional** o rol como **Junior Developer**
-- 🤝 Abierto a colaborar en proyectos **open source** y **startups**
-- 📍 Basado en **Bogotá, Colombia**
-- ⚡ Fun fact: Combino desarrollo de software con mentalidad de **emprendimiento tech**
+- Currently building a full-stack **restaurant management system** (Django + MySQL)
+- Deepening knowledge in **software architecture** and **REST best practices**
+- Open to collaborate on **open source projects** and **tech startups**
+- Based in **Bogotá, Colombia** — available for remote or hybrid roles
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔙 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,dart,ts&theme=dark" />
+</div>
 
-### 🗄️ Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,spring,nodejs,express,flutter&theme=dark" />
+</div>
 
-### 🌐 Frontend (básico)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
+</div>
 
-### 🧰 Herramientas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+</div>
 
 ---
 
-## 🚀 Proyecto destacado
+## Featured Project
 
-### 🍽️ Sistema de Gestión — Restaurante de Paella
-> API REST completa para la gestión de un restaurante real
+### Restaurant Management System — Paella
+> Production-ready REST API for a real restaurant operation
 
-- ✅ **+15 endpoints** documentados y funcionales
-- ✅ Base de datos **MySQL normalizada** con modelo relacional
-- ✅ Gestión de **inventario, pedidos, proveedores y movimientos de stock**
-- ✅ Carga masiva de datos via **CSV + Python scripting**
-- ✅ Migración de **Node.js/Express → Python/Django**
-- 🛠️ Stack: `Python` `Django` `MySQL` `REST API` `Postman`
+- **15+ documented endpoints** with full CRUD operations
+- Normalized **MySQL database** with relational model
+- Inventory, orders, suppliers, and **stock movement management**
+- Bulk data loading via **CSV files + Python scripting**
+- Migration path: **Node.js / Express → Python / Django**
+- `Python` · `Django` · `MySQL` · `REST API` · `Postman`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Pipe_z17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipe_z17&show_icons=true&theme=youtube-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe_z17&layout=compact&theme=youtube-dark&hide_border=true&locale=es"/>
-</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe_z17&layout=compact&theme=youtube-dark&hide_border=true&locale=es&langs_count=8"/>
 </div>
 
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pipe_z17&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak"/>
-</a>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pipe_z17&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
 
-## 🏆 Trofeos GitHub
+## Contribution Graph
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pipe_z17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
 
-## 📜 Certificaciones
+## GitHub Trophies
 
-- 🤖 **IA Responsable y Prompting** — Microsoft / Santander / Founderz *(Marzo 2026)*
-- 🎓 **Tecnólogo en Análisis y Desarrollo de Software** — SENA Bogotá *(En curso)*
-
----
-
-## 🌎 Idiomas
-
-![Español](https://img.shields.io/badge/Español-Nativo-green?style=flat-square)
-![Inglés](https://img.shields.io/badge/Inglés-B1+-blue?style=flat-square)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pipe_z17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
 
 ---
 
-## 📬 Contáctame
+## Now Playing on Spotify
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  </a>
+</div>
+
+> To activate: go to https://spotify-github-profile.kittinanx.com, log in with Spotify and copy your UID. Replace `TU_SPOTIFY_UID` above with it.
+
+---
+
+## Certifications
+
+- **Responsible AI & Prompting** — Microsoft / Santander / Founderz *(March 2026)*
+- **Technologist in Software Analysis and Development** — SENA Bogotá *(In progress)*
+
+---
+
+## Languages
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-27AE60?style=flat-square)
+![English](https://img.shields.io/badge/English-B1+-2980B9?style=flat-square)
+
+---
+
+## Contact
 
 <div align="center">
 
@@ -114,12 +126,49 @@ Soy estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**,
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pipe_z17&color=red&style=flat-square&label=Profile+views"/>
+</div>
+
+---
+
+<details>
+<summary><b>Setup — PAC-MAN / Snake Contribution Graph</b></summary>
+
+Create the file `.github/workflows/snake.yml` inside this same repository:
+
+```yaml
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the first run, the animated graph will appear automatically in your profile.
+
+</details>
+
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Pipe_z17&color=red&style=flat-square&label=Visitas+al+perfil)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
