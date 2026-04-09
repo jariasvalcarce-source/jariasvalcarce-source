@@ -82,14 +82,6 @@ Estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con
 
 ---
 
-## Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pipe_z17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
-
----
-
 ## Escuchando en Spotify
 
 <p align="center">
@@ -119,7 +111,7 @@ Estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jariasvalcarce@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pipe_z17)
 
 </div>
