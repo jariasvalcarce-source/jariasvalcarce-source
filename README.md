@@ -6,56 +6,56 @@
 
 ---
 
-## About me
+## Sobre mí
 
-Software Analysis and Development student at **SENA Bogotá**, focused on **backend engineering**. I build robust REST APIs, design relational databases, and develop end-to-end solutions for real-world problems. Currently seeking a **practicum placement or junior developer role**.
+Estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con enfoque en **desarrollo backend**. Construyo APIs REST robustas, diseño bases de datos relacionales y desarrollo soluciones completas para problemas reales. Actualmente en búsqueda de **práctica profesional o rol junior**.
 
-- Currently building a full-stack **restaurant management system** (Django + MySQL)
-- Deepening knowledge in **software architecture** and **REST best practices**
-- Open to collaborate on **open source projects** and **tech startups**
-- Based in **Bogotá, Colombia** — available for remote or hybrid roles
+- Construyendo un **sistema de gestión para restaurante** (Django + MySQL)
+- Profundizando en **arquitectura de software** y **buenas prácticas REST**
+- Abierto a colaborar en **proyectos open source** y **startups tech**
+- Basado en **Bogotá, Colombia** — disponible para trabajo remoto o híbrido
 
 ---
 
-## Tech Stack
+## Stack tecnológico
 
-### Languages
+### Lenguajes
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,dart,ts&theme=dark" />
 </div>
 
-### Frameworks & Libraries
+### Frameworks y librerías
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django,spring,nodejs,express,flutter&theme=dark" />
 </div>
 
-### Databases
+### Bases de datos
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
 </div>
 
-### Tools & DevOps
+### Herramientas y DevOps
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
 </div>
 
 ---
 
-## Featured Project
+## Proyecto destacado
 
-### Restaurant Management System — Paella
-> Production-ready REST API for a real restaurant operation
+### Sistema de Gestión — Restaurante de Paella
+> API REST lista para producción en una operación real de restaurante
 
-- **15+ documented endpoints** with full CRUD operations
-- Normalized **MySQL database** with relational model
-- Inventory, orders, suppliers, and **stock movement management**
-- Bulk data loading via **CSV files + Python scripting**
-- Migration path: **Node.js / Express → Python / Django**
+- **+15 endpoints documentados** con operaciones CRUD completas
+- Base de datos **MySQL normalizada** con modelo relacional
+- Gestión de inventario, pedidos, proveedores y **movimientos de stock**
+- Carga masiva de datos via **archivos CSV + scripting en Python**
+- Migración: **Node.js / Express → Python / Django**
 - `Python` · `Django` · `MySQL` · `REST API` · `Postman`
 
 ---
 
-## GitHub Stats
+## Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipe_z17&show_icons=true&theme=youtube-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es"/>
@@ -70,19 +70,19 @@ Software Analysis and Development student at **SENA Bogotá**, focused on **back
 
 ---
 
-## Contribution Graph
+## Gráfico de contribuciones
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Pipe_z17/Pipe_z17/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 ---
 
-## GitHub Trophies
+## Trofeos
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pipe_z17&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
@@ -90,33 +90,31 @@ Software Analysis and Development student at **SENA Bogotá**, focused on **back
 
 ---
 
-## Now Playing on Spotify
+## Escuchando en Spotify
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31byjrrw5ewskrjztkvchuiu5ghe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31byjrrw5ewskrjztkvchuiu5ghe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true"/>
   </a>
-</div>
-
-> To activate: go to https://spotify-github-profile.kittinanx.com, log in with Spotify and copy your UID. Replace `TU_SPOTIFY_UID` above with it.
+</p>
 
 ---
 
-## Certifications
+## Certificaciones
 
-- **Responsible AI & Prompting** — Microsoft / Santander / Founderz *(March 2026)*
-- **Technologist in Software Analysis and Development** — SENA Bogotá *(In progress)*
-
----
-
-## Languages
-
-![Spanish](https://img.shields.io/badge/Spanish-Native-27AE60?style=flat-square)
-![English](https://img.shields.io/badge/English-B1+-2980B9?style=flat-square)
+- **IA Responsable y Prompting** — Microsoft / Santander / Founderz *(Marzo 2026)*
+- **Tecnólogo en Análisis y Desarrollo de Software** — SENA Bogotá *(En curso)*
 
 ---
 
-## Contact
+## Idiomas
+
+![Español](https://img.shields.io/badge/Español-Nativo-27AE60?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-B1+-2980B9?style=flat-square)
+
+---
+
+## Contacto
 
 <div align="center">
 
@@ -127,15 +125,15 @@ Software Analysis and Development student at **SENA Bogotá**, focused on **back
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pipe_z17&color=red&style=flat-square&label=Profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=Pipe_z17&color=red&style=flat-square&label=Visitas+al+perfil"/>
 </div>
 
 ---
 
 <details>
-<summary><b>Setup — PAC-MAN / Snake Contribution Graph</b></summary>
+<summary><b>Configuración — Gráfico animado de contribuciones</b></summary>
 
-Create the file `.github/workflows/snake.yml` inside this same repository:
+Crea el archivo `.github/workflows/snake.yml` dentro de este mismo repositorio:
 
 ```yaml
 name: generate snake animation
@@ -163,7 +161,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After the first run, the animated graph will appear automatically in your profile.
+Luego ve a la pestaña **Actions** de tu repositorio y ejecútalo manualmente. Después de eso corre automáticamente cada día.
 
 </details>
 
