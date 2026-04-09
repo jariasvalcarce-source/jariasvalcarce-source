@@ -63,8 +63,7 @@ Estudiante de **Análisis y Desarrollo de Software** en el **SENA Bogotá**, con
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Pipe_z17&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pipe_z17&theme=youtube-dark&hide_border=true&locale=es" alt="GitHub Streak" />
   </a>
 </div>
 
